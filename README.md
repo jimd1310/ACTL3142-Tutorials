@@ -1,2 +1,6 @@
 # ACTL3142 Tutorials
-Tutorial materials for UNSW ACTL3142 Statistical Machine Learning for Risk and Actuarial Applications
+
+This repository contains tutorial notes, worksheets, and code examples for ACTL3142 at UNSW.
+
+## Disclaimer
+These materials are for educational purposes and are not official UNSW course notes.
