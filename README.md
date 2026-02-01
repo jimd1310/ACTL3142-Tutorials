@@ -1,5 +1,5 @@
 # ACTL3142 Tutorial Materials
-Term 1, summer 2026.
+Term 1, fall 2026.
 
 This repository contains tutorial notes, code examples, etc. for ACTL3142 at UNSW.
 
